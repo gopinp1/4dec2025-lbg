@@ -1,0 +1,67 @@
+Skip to content
+Navigation Menu
+gopinp1
+mytask
+
+Type / to search
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Owner avatar
+mytask
+Public
+gopinp1/mytask
+Go to file
+t
+Name		
+gopinp1
+gopinp1
+Initial commit
+66d62b7
+ · 
+3 minutes ago
+README.md
+Initial commit
+3 minutes ago
+Repository files navigation
+README
+mytask
+This is a test repo created for git task.
+
+About
+This is a test repo created for git task.
+
+Resources
+ Readme
+ Activity
+Stars
+ 0 stars
+Watchers
+ 0 watching
+Forks
+ 0 forks
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+Copied!
